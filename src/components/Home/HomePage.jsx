@@ -1,6 +1,6 @@
 import homepage from "../../assets/home_page.jpg";
 
-const Homepage = () => {
+const HomePage = () => {
     return (
         <>
             <div className="flex flex-col space-y-4 px-36 pb-20">
@@ -42,4 +42,4 @@ const Homepage = () => {
     );
 }
 
-export default Homepage;
+export default HomePage;
